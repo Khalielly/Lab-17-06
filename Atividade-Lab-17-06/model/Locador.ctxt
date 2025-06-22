@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Locador
+comment1.params=
+comment1.target=Locador()
+comment2.params=numero\ nome\ senha\ telefone
+comment2.target=Locador(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTelefone()
+comment4.params=telefone
+comment4.target=void\ setTelefone(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

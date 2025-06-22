@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Locatario
+comment1.params=
+comment1.target=Locatario()
+comment10.params=horariosDisponiveis
+comment10.target=void\ setHorariosDisponiveis(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=numero\ nome\ senha\ telefone\ localizacaoQuadra\ tipoQuadra\ horariosDisponiveis
+comment2.target=Locatario(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getTelefone()
+comment4.params=telefone
+comment4.target=void\ setTelefone(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getLocalizacaoQuadra()
+comment6.params=localizacaoQuadra
+comment6.target=void\ setLocalizacaoQuadra(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getTipoQuadra()
+comment8.params=tipoQuadra
+comment8.target=void\ setTipoQuadra(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getHorariosDisponiveis()
+numComments=12

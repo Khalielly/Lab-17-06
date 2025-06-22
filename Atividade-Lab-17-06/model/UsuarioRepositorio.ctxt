@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UsuarioRepositorio
+comment1.params=database
+comment1.target=UsuarioRepositorio(Database)
+comment2.params=database
+comment2.target=void\ setDatabase(Database)
+comment3.params=usuario
+comment3.target=Usuario\ create(Usuario)
+comment4.params=numero
+comment4.target=Usuario\ buscarPorNumero(java.lang.String)
+comment5.params=numero\ senha
+comment5.target=boolean\ autenticar(java.lang.String,\ java.lang.String)
+numComments=6
